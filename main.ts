@@ -16,9 +16,9 @@ input.onButtonPressed(Button.B, function () {
         . # # # .
         `)
 })
-basic.showString("welkom")
+basic.showString("welcome")
 music.play(music.createSoundExpression(WaveShape.Sine, 5000, 5000, 255, 80, 500, SoundExpressionEffect.None, InterpolationCurve.Linear), music.PlaybackMode.UntilDone)
-basic.showString("vince INC")
+basic.showString("vikie INC")
 music.play(music.createSoundExpression(WaveShape.Sine, 5000, 5000, 255, 80, 500, SoundExpressionEffect.None, InterpolationCurve.Linear), music.PlaybackMode.UntilDone)
 basic.showString("Version 2.0")
 basic.forever(function () {
