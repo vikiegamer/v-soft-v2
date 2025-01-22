@@ -6,7 +6,7 @@
 This repository can be added as **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **New project**
+* click on **New project**
 * click on **extension** under the gear menu
 * Seek To **https://github.com/vikiegamer/v-soft-v2** then import
 
